@@ -15,10 +15,10 @@
     "lodash": "4.17.21"
   },
   "devDependencies": {
-    "@types/lodash": "4.17.20",
-    "@typescript-eslint/eslint-plugin": "8.46.4",
-    "@typescript-eslint/parser": "8.46.4",
-    "@vitest/coverage-v8": "4.0.9",
+    "@types/lodash": "4.17.21",
+    "@typescript-eslint/eslint-plugin": "8.47.0",
+    "@typescript-eslint/parser": "8.47.0",
+    "@vitest/coverage-v8": "4.0.13",
     "eslint": "8.57.1",
     "eslint-config-google": "0.14.0",
     "eslint-config-prettier": "10.1.8",
